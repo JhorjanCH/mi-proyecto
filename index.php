@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -8,4 +8,8 @@
 <body>
   <h1>Prueba</h1>
 </body>
-</html>
+</html> -->
+
+<?php
+echo "Hola Mundo";
+?>
